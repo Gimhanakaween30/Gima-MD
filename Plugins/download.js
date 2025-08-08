@@ -1,7 +1,7 @@
 const config = require('../config');
 const { fetchJson } = require("../lib/functions");
-const { downloadTiktok } = require("@mrnima/tiktok-downloader");
-const { facebook } = require("@mrnima/facebook-downloader");
+const { downloadTiktok } = require("@Gima/tiktok-downloader");
+const { facebook } = require("@Gima/facebook-downloader");
 const cheerio = require("cheerio");
 const { igdl } = require("ruhend-scraper");
 const axios = require("axios");
